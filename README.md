@@ -1,2 +1,2 @@
-# coding-factory
-Educational program in Software Development
+# cf-java
+Java exercises
