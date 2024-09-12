@@ -1,2 +1,2 @@
 # cf-java
-Java exercises School app
+School app - Java exercises
